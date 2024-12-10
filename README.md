@@ -25,7 +25,7 @@ Tired of endlessly clicking "Next" for more results? This extension lets you dec
 
 ## 👨‍💻 Author  
 **TarArAis**  
-- GitHub: [TararAis](https://github.com/xTararAisx
+- GitHub: [TararAis](https://github.com/xTararAisx)
 
 ---
 
