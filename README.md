@@ -23,14 +23,9 @@ Tired of endlessly clicking "Next" for more results? This extension lets you dec
 
 ---
 
-## 📸 Screenshots  
-*(Optional – Add screenshots of your extension popup or settings page here for better visualization.)*  
-
----
-
 ## 👨‍💻 Author  
 **TarArAis**  
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [TararAis](https://github.com/xTararAisx
 
 ---
 
